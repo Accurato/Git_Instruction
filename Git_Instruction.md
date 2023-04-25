@@ -90,9 +90,7 @@ git commit -amend -am "Описание изменений"
 git commit -am "Описание изменений"
 ```
 
-## 6. <font face="arial black"><span style="color:#ADFF2F">**Просмотр истории коммитов и перемещение между сохранениями**</span></font>
-
-### 1. <span style="color:#7FFFD4">**История фиксаций**</span>
+## 6. <font face="arial black"><span style="color:#ADFF2F">Просмотр истории коммитов</span></font>
 
 Для просмотра истории фиксаций нужно использовать команду:
 ```
@@ -114,7 +112,7 @@ git log --oneline
 
 Если мы хотим ввернуться к работе с терминалом используем клавишу `Q`
 
-### 2. <span style="color:#7FFFD4">**Перемещения между фиксациями**</span>
+## 7. <font face="arial black"><span style="color:#ADFF2F">Перемещения между коммитами</span></font>
 
 Для перехода между фиксациями нам нужно знать хеш-код коммитов. Его можно увидеть в истории, он будет подсвечиваться желтым цветом.
 
@@ -140,10 +138,10 @@ git diff
 git checkout master
 ```
 
-## 8. Игнорирование файлов
+## 8. <font face="arial black"><span style="color:#ADFF2F">Игнорирование файлов</span></font>
 Для того, чтобы исключить из отслеживания в репозитории определенные файлы и папки необходимо создать там файл ***.gitignore*** и записать в него их названия или шаблоны соответствующие таким файлам или папкам.
 
-## 9. Создание веток в Git
+## 9. <font face="arial black"><span style="color:#ADFF2F">Создание веток в Git</span></font>
 По умолчанию имя основной ветки в Git - **master**.
 Создать ветку можно командой:
 ```
@@ -154,6 +152,6 @@ git branch <имя новой ветки>
 git branch
 ```
 Текущая ветка будет отмечена  звёздочкой: **\*master**
-## 10. Слияние веток
+## 10. <font face="arial black"><span style="color:#ADFF2F">Слияние веток</span></font>
 1. Разрешение конфликтов
-## 11. Удаление веток
+## 11. <font face="arial black"><span style="color:#ADFF2F"><font face="arial black"><span style="color:#ADFF2F">Удаление веток</span></font>
