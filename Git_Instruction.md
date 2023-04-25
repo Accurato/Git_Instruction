@@ -1,3 +1,4 @@
+![Logo](Git-Logo-1788C.png)
 # Работа с Git и GitHub
 
 ## 1. <font face="arial black"><span style="color:#ADFF2F">Проверка наличия установленного Git</span></font>
