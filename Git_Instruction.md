@@ -133,3 +133,5 @@ git diff
 ```
 git checkout master
 ```
+
+## 8. Игнорирование файлов
