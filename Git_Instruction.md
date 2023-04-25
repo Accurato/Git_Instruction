@@ -1,4 +1,4 @@
-![Logo](Git-Logo-1788C.png)
+![Logo](images/Git-Logo-1788C.png)
 # Работа с Git и GitHub
 
 ## 1. <font face="arial black"><span style="color:#ADFF2F">Проверка наличия установленного Git</span></font>
@@ -66,7 +66,7 @@ git status
 
 >Пример удачной индексации:
 
-![git add](/index.png)
+![git add](images/index.png)
 
 Если вы по ошибке добавили файл и хотете убрать его из индексации, используйте команду:
 ```
@@ -120,7 +120,7 @@ git log --oneline
 
 >Пример хеш-кода сокращенной истории:
 
-![git add](/hash_code.png)
+![hash](images/hash_code.png)
 
 Можно использовать первые несколько символов хеш-кода.
 
