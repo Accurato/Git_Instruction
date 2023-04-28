@@ -170,7 +170,7 @@ git checkout <имя ветки>
 
 ## 10. <font face="arial black"><span style="color:#ADFF2F">Слияние веток в Git</span></font>
 ### 1. <span style="color:#7FFFD4">**Слияние веток**</span>
-
+Для слияния двух и более веток используем команду:
 ```
 git merge <имя ветки>
 ```
@@ -205,3 +205,4 @@ git log --graph
 >Пример:
 ![LogGraph](images/LogGraph.png)
 
+## 11. <font face="arial black"><span style="color:#ADFF2F">Удаление веток</span></font>
