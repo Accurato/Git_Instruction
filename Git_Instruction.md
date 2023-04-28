@@ -203,4 +203,4 @@ git branch
 ```
 git log --graph
 ```
-Пример:
+Пример в `git log`:
