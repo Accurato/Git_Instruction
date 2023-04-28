@@ -206,3 +206,18 @@ git log --graph
 ![LogGraph](images/LogGraph.png)
 
 ## 11. <font face="arial black"><span style="color:#ADFF2F">Удаление веток</span></font>
+
+Для удаления веток пользуемся командой:
+```
+git branch -d <имя ветки>
+```
+Перед удалением Git выдаст нам предупреждение.
+>Пример предупреждения:
+![LogGraph](images/delete.png)
+
+Для того чтобы принудительно удалить ветку, добавляем `-d`
+
+Полная команда:
+```
+git branch -d <имя ветки>
+```
