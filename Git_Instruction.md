@@ -197,3 +197,4 @@ git branch
 ```
 git log --graph
 ```
+Пример:
