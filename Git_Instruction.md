@@ -163,3 +163,5 @@ git branch
 git checkout <имя ветки>
 ```
 
+## 10. <font face="arial black"><span style="color:#ADFF2F">Слияние веток</span></font>
+### 1. <span style="color:#7FFFD4">**Слияние**</span>
