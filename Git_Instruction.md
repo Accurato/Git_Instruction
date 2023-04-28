@@ -197,5 +197,5 @@ git branch
 ```
 git log --graph
 ```
->Пример
+>Пример:
 ## 11. <font face="arial black"><span style="color:#ADFF2F"><font face="arial black"><span style="color:#ADFF2F">Удаление веток</span></font>
