@@ -164,5 +164,6 @@ git checkout <имя ветки>
 ```
 
 ## 10. <font face="arial black"><span style="color:#ADFF2F">Слияние веток</span></font>
-1. Разрешение конфликтов
+
+2. Разрешение конфликтов
 ## 11. <font face="arial black"><span style="color:#ADFF2F"><font face="arial black"><span style="color:#ADFF2F">Удаление веток</span></font>
