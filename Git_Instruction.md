@@ -190,4 +190,3 @@ git branch
 * Принять изменения из входящей ветки
 * Принять изменения из обеих веток
 * Вручную изменить код
-## 11. <font face="arial black"><span style="color:#ADFF2F"><font face="arial black"><span style="color:#ADFF2F">Удаление веток</span></font>
