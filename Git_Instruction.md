@@ -205,6 +205,7 @@ git log --graph
 >Пример:
 ![LogGraph](images/LogGraph.png)
 
+
 ## 11. <font face="arial black"><span style="color:#ADFF2F">Удаление веток</span></font>
 
 Для удаления веток пользуемся командой:
@@ -219,5 +220,5 @@ git branch -d <имя ветки>
 
 Полная команда:
 ```
-git branch -d <имя ветки>
+git branch -D <имя ветки>
 ```
